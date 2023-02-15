@@ -12,7 +12,11 @@ In UI 1 Scene Either Choose to Connect your wallet to mint a character or contin
 
 # Step 3 
 
-Mars Base Scene : Land on Mars Base with your character, use directionnal keys, space to jump and shift to run.
+## Mars Base Scene : 
+
+Land on Mars Base with your character, use directionnal keys, space to jump and shift to run.
+
+## Collect In Game NFTs
 
 Connect your wallet and Click on Kryptonite hidden in Hills to Mint them in your wallet
 
